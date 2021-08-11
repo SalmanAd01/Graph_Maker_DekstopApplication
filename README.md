@@ -5,7 +5,7 @@ Hey It's A Dekstop Application With The Help Of Which You Can Draw The Graphs By
 ## Badges
 
 
-[![Mongodb](https://img.shields.io/badge/Monogodb-Database-blue)](https://www.mongodb.com/try/download/community)
+[![NSIS](https://img.shields.io/badge/NSIS-Module-blue)](https://nsis.sourceforge.io/Download)
 
 [![Python](https://img.shields.io/badge/Python-v3.9.6-blue)](https://www.python.org/downloads/)
 
@@ -13,7 +13,6 @@ Hey It's A Dekstop Application With The Help Of Which You Can Draw The Graphs By
  
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue)](https://www.linkedin.com/in/salman-adhikari-a938911bb)
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap%20-Frontend-blue)](https://getbootstrap.com/)
 
 ## How To Use
 - Download This Application Using Link :  https://drive.google.com/file/d/1tOCjNctAKCurWJJBEVvhmsx_2HAAXove/view?usp=drivesdk
