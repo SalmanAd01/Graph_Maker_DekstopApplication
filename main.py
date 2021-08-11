@@ -17,16 +17,16 @@ def drawgraph():
         for x, y in zip(x1, y1):
             plt.text(x, y, '({}, {})'.format(x, y))
             
-        if(len(msgbox_E_Graph_name.get()) > 1):
+        if(len(msgbox_E_Graph_name.get()) >= 1):
             g_name = str(msgbox_E_Graph_name.get())
         else:
             g_name = "Graph!"
 
-        if (len(msgbox_E_x_name.get())>1):
+        if (len(msgbox_E_x_name.get())>=1):
             x_name = str(msgbox_E_x_name.get())
         else :
             x_name = "X-Axis"
-        if (len(msgbox_E_y_name.get())>1):
+        if (len(msgbox_E_y_name.get())>=1):
             y_name = str(msgbox_E_y_name.get())
         else:
             y_name = "Y-Axis"
