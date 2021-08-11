@@ -1,6 +1,6 @@
-# Graph_Maker
+# Graph_Maker_DekstopApplication
 
-Hey It's A Website Made With bootstrap Python And Mongodb That Will Help You To Draw The Graphs By Inputing the Values of X and Y Co-Ordinates
+Hey It's A Dekstop Application With The Help Of Which You Can Draw The Graphs By Inputing The Values Of X And Y Co-Ordinates
 
 ## Badges
 
@@ -16,22 +16,16 @@ Hey It's A Website Made With bootstrap Python And Mongodb That Will Help You To 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-Frontend-blue)](https://getbootstrap.com/)
 
 ## How To Use
-- Open Up The Link :  https://graphmakertester.herokuapp.com/
+- Download This Application Using Link :  https://drive.google.com/file/d/1tOCjNctAKCurWJJBEVvhmsx_2HAAXove/view?usp=drivesdk
 - Now Here You Need To Provide The Total Number Of Pairs For Which You Wanted To Plot Graphs
 - You Can Provide The Graph Name Which Will Appear On The Top Of The Graph Or You Also Can Provide The Name Of X and Y Axis (It's Optional Tho) eg:<br><br>
-![Screenshot (359)](https://user-images.githubusercontent.com/80933048/128854881-a6f2c053-7501-4031-8888-6c42185d973a.png)
+![Screenshot (374)](https://user-images.githubusercontent.com/80933048/128973720-0ce68dc9-7e6d-41b8-9144-bda0df6bccb8.png)
 - Hit The Enter Button
 - Here You Need To Provide The Actual X And Y Co-Ordinates eg:<br><br>
-![Screenshot (363)](https://user-images.githubusercontent.com/80933048/128856766-91a7886d-628f-4a14-a7ea-c2f2f2193442.png)
+![Screenshot (375)](https://user-images.githubusercontent.com/80933048/128973755-90924778-e2e0-4851-a376-7332983db8e0.png)
 - Hit The Plot A Graph Button And That's It <br><br>
-![Screenshot (366)](https://user-images.githubusercontent.com/80933048/128857170-65e3cf12-e018-4cc4-b255-06898482a256.png)
+![Screenshot (376)](https://user-images.githubusercontent.com/80933048/128973773-ed13b244-71da-498d-ad2a-146cabe750d4.png)
 
-## About Code
-- Line 14 : Here You Need To Paste The Link Of Your Mongodb Altas 
-- Line 21 : Here You Need To Provide The Email Id On Which You Wanted To Recieve The Mail
-- Line 22 : Here You Need To Provide The Password Of Your Email Account
-- Line 34 : Type The Same Email Id Which You Did In Line 21
-<br><br><br>
 - Thanks For Reading This If You Have Any Doubt Post a Comment.
 
 
