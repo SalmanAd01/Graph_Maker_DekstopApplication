@@ -25,7 +25,8 @@ Hey It's A Dekstop Application With The Help Of Which You Can Draw The Graphs By
 - Hit The Plot A Graph Button And That's It <br><br>
 ![Screenshot (376)](https://user-images.githubusercontent.com/80933048/128973773-ed13b244-71da-498d-ad2a-146cabe750d4.png)
 - Made Some Mistake? Don't Worry Just Hit The Retry Button And You Are Done.
-
+- You Can Save This Graph By Clicking on the Save Icon
+- You Can Also Adjust The Graph As Per Your Requirements Using The Move And Status Icon<br><br>
 - Thanks For Reading This If You Have Any Doubt Post a Comment.
 
 
